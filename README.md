@@ -9,3 +9,19 @@ Very much a work in progress
 `pip install -r requirements.txt`
 
 
+
+### Setup
+
+Create a directory named `data`.
+Create a file named `meals.txt` in the `data` directory.
+Add meals by name. One per line. No need to use commas.
+
+Example:
+
+```
+salad
+pizza
+burger
+etc.
+```
+
